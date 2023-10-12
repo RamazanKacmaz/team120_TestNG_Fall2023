@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="159f440a-0f49-4355-966c-fbe1887be65d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15_testNG_framework/C01_Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day15_testNG_framework/C01_Priority.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_testNG_framework/C01_DriverClassKullanimi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_testNG_framework/C01_DriverClassKullanimi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_testNG_framework/C04_QualitydemyPozitifLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_testNG_framework/C04_QualitydemyPozitifLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_testNG_framework/C05_QualitydemyNegatifLoginTesti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_testNG_framework/C05_QualitydemyNegatifLoginTesti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day17_testNGFramework_assertions/C04_Assertions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day17_testNGFramework_assertions/C04_Assertions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day17_testNGFramework_assertions/C05_SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day17_testNGFramework_assertions/C05_SoftAssert.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,35 +48,18 @@
     "last_opened_file_path": "C:/Users/ramok/IdeaProjects/New folder"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.C05_QualitydemyNegatifLoginTesti">
-    <configuration name="C01_DriverClassKullanimi" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/ramok/IdeaProjects/team120_TestNG_Fall2023/xmlFiles/paralelTestleriCalistirma.xml">
+    <configuration name="C05_SoftAssert.softAssertionTesti" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="team120_TestNG_Fall2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day16_testNG_framework.*" />
+          <option name="PATTERN" value="tests.day17_testNGFramework_assertions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day16_testNG_framework" />
-      <option name="MAIN_CLASS_NAME" value="tests.day16_testNG_framework.C01_DriverClassKullanimi" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_DriverClassKullanimi.amazonTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="team120_TestNG_Fall2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day16_testNG_framework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day16_testNG_framework" />
-      <option name="MAIN_CLASS_NAME" value="tests.day16_testNG_framework.C01_DriverClassKullanimi" />
-      <option name="METHOD_NAME" value="amazonTest" />
+      <option name="PACKAGE_NAME" value="tests.day17_testNGFramework_assertions" />
+      <option name="MAIN_CLASS_NAME" value="tests.day17_testNGFramework_assertions.C05_SoftAssert" />
+      <option name="METHOD_NAME" value="softAssertionTesti" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -80,53 +67,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_dependsOnMethods.ilkUrunTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/ramok/IdeaProjects/team120_TestNG_Fall2023/xmlFiles/grupCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="team120_TestNG_Fall2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day15_testNG_framework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day15_testNG_framework" />
-      <option name="MAIN_CLASS_NAME" value="tests.day15_testNG_framework.C02_dependsOnMethods" />
-      <option name="METHOD_NAME" value="ilkUrunTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/xmlFiles/grupCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_dependsOnMethods.nutellaTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/ramok/IdeaProjects/team120_TestNG_Fall2023/xmlFiles/istenenMethodlariCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="team120_TestNG_Fall2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day15_testNG_framework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day15_testNG_framework" />
-      <option name="MAIN_CLASS_NAME" value="tests.day15_testNG_framework.C02_dependsOnMethods" />
-      <option name="METHOD_NAME" value="nutellaTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/xmlFiles/istenenMethodlariCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_QualitydemyNegatifLoginTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/ramok/IdeaProjects/team120_TestNG_Fall2023/xmlFiles/paralelTestleriCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="team120_TestNG_Fall2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day16_testNG_framework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day16_testNG_framework" />
-      <option name="MAIN_CLASS_NAME" value="tests.day16_testNG_framework.C05_QualitydemyNegatifLoginTesti" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/xmlFiles/paralelTestleriCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/ramok/IdeaProjects/team120_TestNG_Fall2023/xmlFiles/tumtestleriCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="team120_TestNG_Fall2023" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/xmlFiles/tumtestleriCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -135,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C05_QualitydemyNegatifLoginTesti" />
-        <item itemvalue="TestNG.C01_DriverClassKullanimi" />
-        <item itemvalue="TestNG.C01_DriverClassKullanimi.amazonTest" />
-        <item itemvalue="TestNG.C02_dependsOnMethods.nutellaTest" />
-        <item itemvalue="TestNG.C02_dependsOnMethods.ilkUrunTest" />
+        <item itemvalue="TestNG.C:/Users/ramok/IdeaProjects/team120_TestNG_Fall2023/xmlFiles/paralelTestleriCalistirma.xml" />
+        <item itemvalue="TestNG.C05_SoftAssert.softAssertionTesti" />
+        <item itemvalue="TestNG.C:/Users/ramok/IdeaProjects/team120_TestNG_Fall2023/xmlFiles/tumtestleriCalistirma.xml" />
+        <item itemvalue="TestNG.C:/Users/ramok/IdeaProjects/team120_TestNG_Fall2023/xmlFiles/grupCalistirma.xml" />
+        <item itemvalue="TestNG.C:/Users/ramok/IdeaProjects/team120_TestNG_Fall2023/xmlFiles/istenenMethodlariCalistirma.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +126,19 @@
       <option name="presentableId" value="Default" />
       <updated>1697032731486</updated>
     </task>
+    <task id="LOCAL-00001" summary="10/11/2023">
+      <option name="closed" value="true" />
+      <created>1697035146542</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697035146542</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="10/11/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/11/2023" />
   </component>
 </project>
