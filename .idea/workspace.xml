@@ -6,13 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="159f440a-0f49-4355-966c-fbe1887be65d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15_testNG_framework/C01_Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day15_testNG_framework/C01_Priority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_testNG_framework/C01_DriverClassKullanimi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_testNG_framework/C01_DriverClassKullanimi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_testNG_framework/C04_QualitydemyPozitifLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_testNG_framework/C04_QualitydemyPozitifLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_testNG_framework/C05_QualitydemyNegatifLoginTesti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_testNG_framework/C05_QualitydemyNegatifLoginTesti.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day17_testNGFramework_assertions/C04_Assertions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day17_testNGFramework_assertions/C04_Assertions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day17_testNGFramework_assertions/C05_SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day17_testNGFramework_assertions/C05_SoftAssert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2WcXEMbmVE4z8P1FGptxkllXJrt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -39,16 +34,51 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/ramok/IdeaProjects/New folder"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ramok/IdeaProjects/New folder&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="TestNG.C:/Users/ramok/IdeaProjects/team120_TestNG_Fall2023/xmlFiles/paralelTestleriCalistirma.xml">
+}</component>
+  <component name="RunManager" selected="TestNG.C02_RaporluNegatifLoginTesti">
+    <configuration name="C01_raporluTest.nutellaTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="team120_TestNG_Fall2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day19_testNGreports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day19_testNGreports" />
+      <option name="MAIN_CLASS_NAME" value="tests.day19_testNGreports.C01_raporluTest" />
+      <option name="METHOD_NAME" value="nutellaTesti" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_RaporluNegatifLoginTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="team120_TestNG_Fall2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day19_testNGreports_crossBrowserTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day19_testNGreports_crossBrowserTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.day19_testNGreports_crossBrowserTest.C02_RaporluNegatifLoginTesti" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C05_SoftAssert.softAssertionTesti" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="team120_TestNG_Fall2023" />
       <extension name="coverage">
@@ -61,26 +91,6 @@
       <option name="MAIN_CLASS_NAME" value="tests.day17_testNGFramework_assertions.C05_SoftAssert" />
       <option name="METHOD_NAME" value="softAssertionTesti" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/ramok/IdeaProjects/team120_TestNG_Fall2023/xmlFiles/grupCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="team120_TestNG_Fall2023" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/xmlFiles/grupCalistirma.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/ramok/IdeaProjects/team120_TestNG_Fall2023/xmlFiles/istenenMethodlariCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="team120_TestNG_Fall2023" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/xmlFiles/istenenMethodlariCalistirma.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -109,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C02_RaporluNegatifLoginTesti" />
+        <item itemvalue="TestNG.C01_raporluTest.nutellaTesti" />
         <item itemvalue="TestNG.C:/Users/ramok/IdeaProjects/team120_TestNG_Fall2023/xmlFiles/paralelTestleriCalistirma.xml" />
         <item itemvalue="TestNG.C05_SoftAssert.softAssertionTesti" />
         <item itemvalue="TestNG.C:/Users/ramok/IdeaProjects/team120_TestNG_Fall2023/xmlFiles/tumtestleriCalistirma.xml" />
-        <item itemvalue="TestNG.C:/Users/ramok/IdeaProjects/team120_TestNG_Fall2023/xmlFiles/grupCalistirma.xml" />
-        <item itemvalue="TestNG.C:/Users/ramok/IdeaProjects/team120_TestNG_Fall2023/xmlFiles/istenenMethodlariCalistirma.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -134,11 +144,35 @@
       <option name="project" value="LOCAL" />
       <updated>1697035146542</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="10/12/2023">
+      <option name="closed" value="true" />
+      <created>1697114787316</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697114787316</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10/11/2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="10/11/2023" />
+    <MESSAGE value="10/12/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/12/2023" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java</url>
+          <line>45</line>
+          <properties class="utilities.ReusableMethods" method="webElementFotografCek">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
