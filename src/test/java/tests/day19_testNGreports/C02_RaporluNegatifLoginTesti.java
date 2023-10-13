@@ -1,4 +1,4 @@
-package tests.day19_testNGreports_crossBrowserTest;
+package tests.day19_testNGreports;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
